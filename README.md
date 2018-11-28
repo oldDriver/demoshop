@@ -1,0 +1,2 @@
+# demoshop
+Symfony + aimeos bundle
